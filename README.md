@@ -4,7 +4,7 @@
 #### :writing_hand: I employ Human Centric Design Systems in my problem solving approach like Design Thinking and Agile.
 #### :writing_hand: I have domain of experience in different fields like Marketing, Content Creation, Project Management and Entrepreneurship.
 #### :writing_hand: I reference these different backgrounds because communication between different teams is very important in developing softwares.
-#### :writing_hand: hence I mostly serve as a bridge between the technicalities of the stated field to ensure clarity and coordination.
+#### :writing_hand: Hence I mostly serve as a bridge communicating the technicalities between different teams of the stated fields to ensure clarity and coordination.
 
 ## Most Used Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
