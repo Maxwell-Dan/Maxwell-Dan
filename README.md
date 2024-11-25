@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 **About Me**
-I am a results-driven **Software Engineer** with over 5 years of experience developing robust, scalable, and user-centric applications. My focus lies in pushing the boundaries of technology, particularly in **AI** and **automation**, to create impactful solutions that reduce human error and enhance productivity.
+I am a results-driven **Software Engineer** with 5 years of experience developing robust, scalable, and user-centric applications. My focus lies in pushing the boundaries of technology, particularly in **AI** and **automation**, to create impactful solutions that reduce human error and enhance productivity.
 
 #### 🛠️ I leverage tools like:
 - **Flutter** for frontend development
